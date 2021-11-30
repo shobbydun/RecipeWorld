@@ -42,7 +42,8 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/TopView"
         app:layout_constraintVertical_bias="1.0"
-        app:srcCompat="@drawable/rr" />
+        app:srcCompat="@drawable/rr"
+        tools:ignore="SpeakableTextPresentCheck" />
 
     <TextView
         android:id="@+id/Recipe_in"

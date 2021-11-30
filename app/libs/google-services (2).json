@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "462458597342",
+    "project_id": "recipeworld-11439",
+    "storage_bucket": "recipeworld-11439.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462458597342:android:5fa13633ad6de1a884374f",
+        "android_client_info": {
+          "package_name": "com.example.recipeworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462458597342-3kf8hrd7fie7qgfblptf5ru7pfou05ss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recipeworld",
+            "certificate_hash": "3f91d7847b8902633a044e9ea66bcc673d1a6524"
+          }
+        },
+        {
+          "client_id": "462458597342-gsvibjktufbvact4dqiiv8o3831t6np3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAATIx7txqsgpMp-aLRbvTuZF5dyEywxOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462458597342-gsvibjktufbvact4dqiiv8o3831t6np3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

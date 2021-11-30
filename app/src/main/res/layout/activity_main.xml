@@ -43,6 +43,17 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
+    <com.google.android.gms.common.SignInButton
+        android:id="@+id/btn_sign"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toTopOf="@+id/Btn_2"
+        app:layout_constraintEnd_toEndOf="@+id/Emaill1"
+        app:layout_constraintHorizontal_bias="0.503"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Emaill1"
+        app:layout_constraintVertical_bias="0.872" />
+
     <EditText
         android:id="@+id/Emaill1"
         android:layout_width="352dp"

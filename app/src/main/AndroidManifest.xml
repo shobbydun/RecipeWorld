@@ -9,6 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.RecipeWorld">
+
+        <activity
+            android:name=".AddRecipe"
+            android:exported="false" />
         <activity
             android:name=".Recipes"
             android:exported="false" />
